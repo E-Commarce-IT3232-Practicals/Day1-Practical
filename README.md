@@ -18,26 +18,50 @@ Welcome to my Java Programming Practicals repository! This collection includes v
 ### Practical 1: Hello World 🌍
 The classic "Hello World" program that prints a simple greeting to the console.
 
+![1](https://github.com/user-attachments/assets/74f7b4e5-8601-44e4-ad03-a42a84aeab2c)
+
+
 ### Practical 2: Print Numbers from 1 to 10 🔢
 A program that prints numbers from 1 to 10 using a `for` loop.
+
+![2](https://github.com/user-attachments/assets/f63158ff-dd2c-4305-b0b0-625bd64b7727)
+
 
 ### Practical 3: Reverse a Number 🔄
 This practical demonstrates how to reverse a given number using a `while` loop and basic mathematical operations.
 
+![3](https://github.com/user-attachments/assets/8d3e6fc4-6e9d-4ff0-9c60-01d65896193f)
+
+
 ### Practical 4: Print Odd Numbers between 1 and 20 ➗
 A simple program that uses an `if` statement inside a loop to print all the odd numbers between 1 and 20.
+
+![4](https://github.com/user-attachments/assets/5f65b237-b6a7-412a-9766-729b44cce3ef)
+
 
 ### Practical 5: Create a Number Pattern with Array 🔠
 This exercise generates a number pattern using an array. It asks the user for a number and creates a symmetric pattern based on the input.
 
+![5](https://github.com/user-attachments/assets/699e2c95-4656-46b8-b6e0-f4cf5d497f05)
+
+
 ### Practical 6: Calculate Average Marks of Students 🏫
 In this practical, we create a `Student` class, add five student objects to a collection, and calculate the average marks.
+
+![6](https://github.com/user-attachments/assets/2608a7f0-6deb-4c53-9441-1abb3bbdbf75)
+
 
 ### Practical 7: Library System (Inheritance, Polymorphism, Encapsulation) 📚
 This practical simulates a library system where we handle different types of books like printed books, e-books, and audiobooks using object-oriented principles such as inheritance, polymorphism, and encapsulation.
 
+![7](https://github.com/user-attachments/assets/46cc7a22-db45-4cf3-9a5a-f9d3af008dcb)
+
+
 ### Practical 8: Retail Store Management System 🏬
 This program manages a retail store where you can store, edit, and delete products such as fruits, vegetables, and groceries. It uses inheritance to define different product types and encapsulation for managing product data.
+
+![8](https://github.com/user-attachments/assets/31f45956-ee44-44eb-a26f-8b3dfa88c180)
+
 
 ---
 
